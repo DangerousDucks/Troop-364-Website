@@ -1,15 +1,15 @@
 
 |Outing   |Dates|
 |------   |-----|
-|January  |11111|
-|February |11111|
-|March    |11111|
-|April    |11111|
-|May      |11111|
-|June     |11111|
-|July     |11111|
-|August   |11111|
-|September|11111|
-|October  |11111|
-|November |11111|
-|December |11111|
+|[January](./campouts/January-Outing.md)  |11111|
+|[February](./campouts/February-Outing.md) |11111|
+|[March](./campouts/March-Outing.md)|11111|
+|[April](./campouts/April-Outing.md)|11111|
+|[May](./campouts/May-Outing.md)|11111|
+|[June](./campouts/June-Outing.md)|11111|
+|[July](./campouts/July-Outing-(Summer-Camp).md)|11111|
+|[August](./campouts/August-Outing.md)|11111|
+|[September](./campouts/September-Outing.md)|11111|
+|[October](./campouts/October-Outing.md)|11111|
+|[November](./campouts/November-Outing.md)|11111|
+|[December](./campouts/December-Outing.md)11111|

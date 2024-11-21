@@ -12,4 +12,4 @@
 |[September](./campouts/September-Outing.md)|11111|
 |[October](./campouts/October-Outing.md)|11111|
 |[November](./campouts/November-Outing.md)|11111|
-|[December](./campouts/December-Outing.md)11111|
+|[December](./campouts/December-Outing.md)|11111|
